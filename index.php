@@ -83,6 +83,7 @@
         <a href="contact.php">Contact</a>
          <a href="register.php">Registration</a>
          <a href="Services.php">Services</a>
+        <a href="player.php">Player</a>
     </nav>
 
     <div class="hero">
@@ -112,3 +113,4 @@
     </footer>
 </body>
 </html>
+
